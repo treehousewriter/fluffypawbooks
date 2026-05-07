@@ -27,6 +27,7 @@ He is the first character in the Fluffy Paw Books universe.
 <img src="/assets/img/book1.jpg" style="width:100%; border-radius:8px; border:1px solid #eee;">
 <b>Book 1</b><br>
 Coming soon
+  
 </div>
 
 <div style="text-align:center;">
