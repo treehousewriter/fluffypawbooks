@@ -5,18 +5,22 @@ title: Books
 
 # Books
 
-Welcome to the Fluffy Paw Books series.
+Welcome to *Fluffy Paw Books*.
 
-## Book 1: (Your Title Here)
+This series is currently in development.
 
-![Book Cover](/assets/img/book1.jpg)
+## ✨ Coming Soon
 
-A short description of your book goes here.
+I'm currently working on the first books in the series. Check back soon for:
+
+- Book covers  
+- Story descriptions  
+- Release updates  
 
 ---
 
-## Book 2: (Optional)
+## 📖 Future Releases
 
-![Book Cover](/assets/img/book2.jpg)
+More information will be added here as the series develops.
 
-Short description here.
+Stay tuned!
